@@ -1,0 +1,22 @@
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\bin\Debug\JokeTeller.exe.config
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\bin\Debug\JokeTeller.exe
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\bin\Debug\JokeTeller.pdb
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.AssemblyReference.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.SuggestedBindingRedirects.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.Form1.resources
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.Properties.Resources.resources
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.GenerateResource.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.exe
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\JokeTeller\JokeTeller\obj\Debug\JokeTeller.pdb
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\bin\Debug\JokeTeller.exe.config
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\bin\Debug\JokeTeller.exe
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\bin\Debug\JokeTeller.pdb
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.AssemblyReference.cache
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.SuggestedBindingRedirects.cache
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.Form1.resources
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.Properties.Resources.resources
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.GenerateResource.cache
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.csproj.CoreCompileInputs.cache
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.exe
+C:\Users\travis\Documents\GitHub\JokeTeller\JokeTeller\obj\Debug\JokeTeller.pdb
